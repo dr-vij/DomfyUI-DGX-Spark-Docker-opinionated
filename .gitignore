@@ -1,5 +1,4 @@
 .idea/
-ComfyUI/
 .env
 
 hf_cache/*
