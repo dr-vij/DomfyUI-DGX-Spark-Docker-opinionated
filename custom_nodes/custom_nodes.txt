@@ -1,6 +1,9 @@
 # ComfyUI Custom Nodes
 # Each line is a git repository URL to clone
-# disabled for now. https://github.com/comfyanonymous/ComfyUI_TensorRT.git
+
+# disabled for now because I have problems with cuda 13.1 and 13.0 on my spark.
+# will enable this one later https://github.com/comfyanonymous/ComfyUI_TensorRT.git
+# comment repos you don't want to clone
 
 https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait.git
 https://github.com/ubisoft/ComfyUI-Chord.git
