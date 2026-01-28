@@ -19,6 +19,7 @@ https://github.com/cubiq/ComfyUI_essentials.git
 https://github.com/Fannovel16/comfyui_controlnet_aux.git
 https://github.com/StableLlama/ComfyUI-basic_data_handling
 https://github.com/sonnybox/ComfyUI-SuperNodes
+https://github.com/jtydhr88/ComfyUI-qwenmultiangle
 
 https://github.com/kijai/ComfyUI-WanAnimatePreprocess
 https://github.com/kijai/ComfyUI-WanVideoWrapper
